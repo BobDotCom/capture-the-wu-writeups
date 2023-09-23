@@ -47,3 +47,5 @@ if we remove "$dynamic_0\$", we are left with each hash and its cooresponding pl
 2c7541b65ef9974179b31472156af2e9:bANK$123
 f8926a478274a9db2f63fb9bd2c11c5e:MarkBoyd
 ```
+
+-HR
