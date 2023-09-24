@@ -5,7 +5,7 @@ I downloaded the file, and because the title is "EX"traterrestrial, I used exift
 
 Can you find the hidden message?
 
-(pleiades.TIF)
+[pleiades.TIF](ChallengeFiles/pleiades.TIF)
 
 
 ## Flag

@@ -1,7 +1,7 @@
 # Sneaky Snake (30)
 
 Find the flag in this encryted python script.
-(decryptMe.py)
+[decryptMe.py](ChallengeFiles/decryptMe.py)
 
 
 

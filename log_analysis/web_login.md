@@ -2,4 +2,4 @@ Web Login
 20
 Can you find the login attempt? Password is the flag.
 
-(web1.pcap)
+[web1.pcap](ChallengeFiles/web1.pcap)

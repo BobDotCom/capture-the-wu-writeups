@@ -4,4 +4,4 @@
 
 A new user has been created. Can you find the username?
 
-(user.evtx)
+[user.evtx](ChallengeFiles/user.evtx)
