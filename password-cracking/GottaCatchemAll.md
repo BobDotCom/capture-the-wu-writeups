@@ -1,6 +1,11 @@
 # Gotta Catch em All - 20 Points
 ## Description
 Our team has found a set of encrypted messages. They seemed to have figured out that the passwords consists of a pokemon followed by some numbers. Can you decrypt them?
+
+Hashes:
+
+fbf5496a008165f6db865a23b3da8d89 8d4244cb30f5aff30b2327eb439dea05 3c19b01733e53bd0bf860c59aa2c1c6f ba351835bcc91d880881d05725ae399d ff097d17d99af6a74612e9d2784be70d
+
 ## Solution
 
 To crack these passwords, I used the tool "John the Ripper." More about this is specified in the "RockYou.md" writeup.

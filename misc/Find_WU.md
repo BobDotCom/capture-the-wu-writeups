@@ -1,0 +1,3 @@
+Find WU
+30
+One of Wu's favorite spots on campus is a secret garden that houses the art of Charles Grafly. Can you check the garden and see if Wu is hiding there? Well, you would have to find the garden first...

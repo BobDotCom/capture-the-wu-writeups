@@ -1,4 +1,14 @@
 # This one is for Ronnie (10)
+
+## Description
+Question: Please give me the md5 hashes for these phrases:
+
+shockblock123 rotaryfruit valorant flipflop8921 wushockhop
+
+
+
+
+
 I took the provided strings and used a online converter to get the md5 hashes of each one separately, making sure not to mix them up. All 5 of them is the flag.
 
 ## Flag

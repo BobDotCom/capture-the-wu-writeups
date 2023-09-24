@@ -2,6 +2,8 @@
 ## Description
 Question: You are conducting a security audit on a system and have obtained a list of password hashes from the database. You suspect that the passwords are weak and correspond to some passwords from the rockyou data breach. Can you decrypt the hashes?
 
+82af6f54b3cb7ff9aea67e3205f67b2d 2c7541b65ef9974179b31472156af2e9 77764b9856a7d45dfbffa4bab92c6979 8f5be196c116d266ca269705047af8fe f8926a478274a9db2f63fb9bd2c11c5e
+
 ## Solution
 To crack these passwords, I used the tool "John the Ripper," which is a popular Open Source password-cracking tool. It can be installed using apt-get or snap on Linux, and through this link: https://www.openwall.com/john/ for Mac and Windows.
 

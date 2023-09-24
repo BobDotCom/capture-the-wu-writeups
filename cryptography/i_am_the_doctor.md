@@ -1,4 +1,11 @@
 # I am The Doctor. Simply The Doctor. The one, the only, and the best. (30)
+
+## Description
+Question: We received a transmission from an unknown individual. Can you tell us their message?
+
+(see image)
+(message.png)
+
 ## Steps
 1. We downloaded the image and used google's reverse image search to find out that it was a phrase in the fictional language "Gallifreyan" from the show Doctor Who. This was confirmed by the question title.
 2. We used a [Gallifreyan](https://gallifreyan.info/guide/scg) guide to translate to english.
