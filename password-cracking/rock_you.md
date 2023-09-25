@@ -50,4 +50,4 @@ if we remove "$dynamic_0\$", we are left with each hash and its cooresponding pl
 f8926a478274a9db2f63fb9bd2c11c5e:MarkBoyd
 ```
 
--HR
+-Hudson
