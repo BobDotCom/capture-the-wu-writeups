@@ -7,6 +7,12 @@ Attempted solutions:
 
 Adjusted all sorts of different visibility settings in hopes of finding a superimposed hidden message.
 
+Only found a couple dots behind the black box, unaware of the significance.
+![dots.png](Image/dots.png)
+
+Also tried decrypting the language using various image detection algorithms and also looking up the symbols. 
+
+
 Checked meta data.
 
 Ran through zsteg.
