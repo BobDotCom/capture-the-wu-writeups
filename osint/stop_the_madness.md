@@ -4,4 +4,4 @@ You get a note from your boss that a large group of cyber terrorists are holding
 
 Attempted solutions:
 
-Found that 249857 is the code for a shade of paint called London Grey. Attempted to find the connection between this and a location where mass panic could be incited, but ultimately failed.
+Found that 249857 is the code for a shade of paint called London Grey. Attempted to find the connection between this and a location where mass panic could be incited, but ultimately failed. We also know that it is a war of the worlds reference, but we couldn't find any locations from the movies or books that were correct.
