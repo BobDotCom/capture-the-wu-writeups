@@ -5,3 +5,5 @@ INSECURITY
 Attempted solution:
 
 Supposed that it could be a substitution cipher with unique characters. Assigned each character a letter and ran through dCode but yielded nothing.
+
+Googled and found certain fonts, but they didnt lead anywhere.

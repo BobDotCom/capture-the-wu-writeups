@@ -5,5 +5,7 @@ You must pass Kansas history to earn your Cybersecurity Degree (d*#* Gen Ed). Th
 ## Attempt
 We searched all of WSU's domains for anything relating to Joseph Homer Parker and searched all of google using filters like "filetype:txt" and "intext:'Joseph Homer Parker'".
 
+Also looked for anything on the wsu website that contained Joseph
+
 ## Flag
 Unknown
