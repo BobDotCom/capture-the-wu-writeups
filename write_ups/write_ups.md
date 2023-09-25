@@ -7,3 +7,5 @@ Submissions must be sent in one file or in a .zip folder with each question, ste
 Submitting write ups for challanges with multiple flags or those that are worth 20 and 30 points may award partial points up to 50%.
 
 
+## Solution
+We finished our writeups and posted them in our [github repo](https://github.com/BobDotCom/capture-the-wu-writeups).
